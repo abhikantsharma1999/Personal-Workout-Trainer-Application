@@ -1,2 +1,2 @@
-# A Personal Wrokout Trainer Application based on Angular | Typescript
+# A Personal Workout Trainer Application based on Angular | Typescript
  
